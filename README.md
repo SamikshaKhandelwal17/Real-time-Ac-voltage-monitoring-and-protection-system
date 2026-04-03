@@ -1,0 +1,2 @@
+# Real-time-Ac-voltage-monitoring-and-protection-system
+The system detects variations in voltage by continuous monitoring, when the voltage exceeds safe limit (below 180-undervoltage , above 234 for overvoltage) the system detects abnormalities and automatically disconnect the load and when  become normal it connect the load back. Its cost effective &amp; protective for home appliances with counter employed
